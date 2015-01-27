@@ -3647,6 +3647,21 @@
         "Static",
         "Responsive"
       ]
+    },
+     {
+    "name": "School Web",  
+    "thumb": "schoolweb/thumb.png",
+    "desc": "An academic system for registering notes and contact students", 
+    "url": "http://uearsa.url.ph/turma/#/", 
+    "info": "https://github.com/thiagomarques2015/schoolweb", 
+    "src": "https://github.com/thiagomarques2015/schoolweb", 
+    "submitter": "thiagomarques2015", 
+    "submissionDate": "2015-01-25", 
+    "tags": [
+      "School", "Learning", 
+      "Angular", "JS", "Javascript", "Bootstrap", "PHP", "PDO", "CSS",
+      "Web", "Online", "Students", "System"
+    ]
     }
 
   ]
